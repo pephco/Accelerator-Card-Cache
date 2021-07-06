@@ -1,2 +1,2 @@
-# Accelerator-Card-Cache
-Software cache designed to reduce data movement between processor and accelerator card.
+# Software-Cache Instantiation Library for Accelerators
+Software-cache instatiation library for reducing data movement between processors and accelerator cards.
